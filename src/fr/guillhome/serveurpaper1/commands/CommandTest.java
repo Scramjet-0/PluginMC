@@ -12,7 +12,7 @@ public class CommandTest implements CommandExecutor {
 			@NotNull String[] args) {
 		// TODO Auto-generated method stub
 		
-		sender.sendMessage("Bravo!!!");
+		sender.sendMessage("Ceci est un test");
 		
 		return false;
 	}
