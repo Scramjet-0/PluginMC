@@ -1,0 +1,8 @@
+name: serveurpaper1
+version: 1.0
+author: guillhome
+main: fr.guillhome.serveurpaper1.Main
+commands:
+  test:
+    description: Commande de test
+    permission: test.use
