@@ -6,3 +6,6 @@ commands:
   test:
     description: Commande de test
     permission: test.use
+  alert:
+    description: commande de diffusion d'un message
+    permission: perm.use
